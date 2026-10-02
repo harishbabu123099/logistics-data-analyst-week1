@@ -1,0 +1,9 @@
+Order_ID,Order_Date,Warehouse,Origin,Destination,Product_Category,Quantity,Dispatch_Date,Expected_Delivery_Date,Actual_Delivery_Date,Carrier,Transport_Mode,Distance_km,Transport_Cost,Delivery_Status
+ORD001,2026-09-01,Warehouse A,Chennai,Bengaluru,Electronics,10,2026-09-01,2026-09-03,2026-09-03,Carrier A,Road,350,4200,Delivered
+ORD002,2026-09-02,Warehouse A,Chennai,Coimbatore,Home Goods,15,2026-09-02,2026-09-05,2026-09-06,Carrier B,Road,510,5100,Delivered
+ORD003,2026-09-03,Warehouse B,Bengaluru,Hyderabad,Auto Parts,8,2026-09-03,2026-09-07,2026-09-07,Carrier A,Road,570,6200,Delivered
+ORD004,2026-09-04,Warehouse A,Chennai,Madurai,Food,25,2026-09-04,2026-09-06,2026-09-06,Carrier C,Road,460,3900,Delivered
+ORD005,2026-09-05,Warehouse B,Bengaluru,Chennai,Electronics,12,2026-09-05,2026-09-08,2026-09-09,Carrier B,Road,350,4500,Delivered
+ORD006,2026-09-06,Warehouse A,Chennai,Pune,Industrial,6,2026-09-06,2026-09-10,2026-09-10,Carrier A,Road,1200,9800,Delivered
+ORD007,2026-09-07,Warehouse B,Bengaluru,Mysuru,Home Goods,20,2026-09-07,2026-09-09,2026-09-09,Carrier C,Road,145,2200,Delivered
+ORD008,2026-09-08,Warehouse A,Chennai,Bengaluru,Auto Parts,9,2026-09-08,2026-09-10,2026-09-11,Carrier B,Road,350,4300,Delivered
